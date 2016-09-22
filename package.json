@@ -1,0 +1,29 @@
+{
+  "name": "start-boilerplate",
+  "version": "0.0.1",
+  "description": "Just a simple boilerplate to start a build a simple website. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charles7421/start-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "html",
+    "css",
+    "sass",
+    "bootstrap"
+  ],
+  "author": "Charles Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charles7421/start-boilerplate/issues"
+  },
+  "homepage": "https://github.com/charles7421/start-boilerplate#readme",
+  "dependencies": {
+    "node-sass": "^3.10.0"
+  }
+}
