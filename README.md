@@ -1,6 +1,6 @@
 # start-boilerplate
 
-Just a simple boilerplate to start a build a simple website. 
+Just a simple boilerplate to start a build a simple website. <br>
 It includes some frameworks , libs and icons to speed up the start of the project.
 
 
